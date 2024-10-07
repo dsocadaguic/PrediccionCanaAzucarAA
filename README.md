@@ -2,6 +2,8 @@
 
 # Tesis: Predicción espacial del rendimiento del cultivo de caña de azúcar (Saccharum officinarum) mediante aprendizaje de máquina
 
+## Magíster en Geomática
+
 ***Autor:*** Diego Arley Socadagui Casas @[dsocadaguic](https://github.com/dsocadaguic).
 
 ***Director:*** Prof. Ph.D(s). Andrés Felipe Rodriguez Vasquez ([perfil](https://scholar.google.es/citations?user=7D4jWaUAAAAJ&hl=es))
@@ -18,26 +20,10 @@ El documento puede consultarse en el siguiente enlace [Proyecto de Tesis]().
 
 ```
 Proyecto de Tesis
-├── code: Contiene los notebooks para desarrollar este estudio.
-│   ├── 
-│   ├── 
-│   └── 
-│   ├── 
-│   └── 
-├── data: Contiene la información base de estudio.
-│   ├── ...
-│   ├── ...
-│   ├── ...
-│   ├── ...
-│   ├── ...
-│   └── ...
+├── code: Contiene los Python notebooks para desarrollar este estudio.
+├── data: Contiene la información base de la tesis.
 ├── img: Contiene el escudo de la U. Nacional de Colombia.
-├── models: Contiene los modelos entrenados.
-│   ├── ...
-│   ├── ...
-│   ├── ...
-│   ├── ...
-│   └── ...
+├── models: Contiene los modelos entrenados, junto con sus correspondiente parámetros.
 └── output: Contiene los datos procesados ​​y los resultados obtenidos del análisis. 
 └── requirements.txt: Contiene todos los paquetes utilizados en el proyecto.
 
