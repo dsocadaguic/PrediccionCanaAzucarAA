@@ -19,11 +19,11 @@ El documento puede consultarse en el siguiente enlace [Proyecto de Tesis]().
 ```
 Proyecto de Tesis
 ├── code: Contiene los notebooks para desarrollar este estudio.
-│   ├── 00_PreparingData.ipynb
-│   ├── 01_EDA.ipynb
-│   └── 02_ExtractJurisprudence.ipynb
-│   ├── 03_PreprocessingText.ipynb
-│   └── 04_Citation_standard.ipynb
+│   ├── 
+│   ├── 
+│   └── 
+│   ├── 
+│   └── 
 ├── data: Contiene la información base de estudio.
 │   ├── ...
 │   ├── ...
