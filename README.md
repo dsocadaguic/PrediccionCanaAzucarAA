@@ -1,21 +1,23 @@
-# Thesis Project: Exploring the Colombian Constitutional Jurisprudence through Bibliometric Analysis and Large Language Models: An Application in Legal Research
+<img src="https://github.com/dsocadaguic/PrediccionCanaAzucarAA/blob/main/img/EscudoUN.png" width="100"/>
 
-***Authors:*** Ana Maria Giraldo Vargas @[amgiraldov](https://github.com/amgiraldov), Sonia Rocio Socadagui Casas @[soniasocadagui](https://github.com/soniasocadagui).
+# Tesis: Predicción espacial del rendimiento del cultivo de caña de azúcar mediante aprendizaje de máquina
 
-***Supervisor:*** Prof. Dr. Seppe vanden Broucke ([profile](http://www.seppe.net/)), assistant professor at the Department of Business Informatics at UGent (Belgium), and lecturer at KU Leuven (Belgium).
+***Autor:*** Diego Arley Socadagui Casas @[dsocadaguic](https://github.com/dsocadaguic).
 
-## Description
-This research aims to provide an innovative tool to the Colombian judiciary that supports semantic searches of jurisprudence using machine learning techniques to increase, on the one hand, the efficiency of solving legal issues and, on the other hand, to produce effective and fair rule decisions. In addition, this project would supply a measure of similarity between court documents taking into account the meaning of the topics, allowing the identification of texts that deal with the same subject matter to facilitate the construction of jurisprudential lines.
+***Director:*** Prof. Ph.D(s). Andrés Felipe Rodriguez Vasquez ([profile](https://scholar.google.es/citations?user=7D4jWaUAAAAJ&hl=es))
 
-In the Colombian Judicial branch, this field, known as Legal Tech, has been approached recently, meaning there is much room for research. In addition, the solution we propose is not only attractive to the Constitutional Court, citizens, or jurisprudence’s users, but it has the potential of applicability in different legal organizations to present efficient and effective actions for protecting rights using the appropriate jurisprudential line
+***Codirectora:*** Prof. Ph.D. Yolanda Rubiano Sanabria ([profile](https://cienciasagrarias.bogota.unal.edu.co/facultad/profesores/yolanda-rubiano-sanabria))
+
+## Descripción
+El cultivo de caña de azúcar es fundamental para la economía agrícola de Colombia, particularmente en el Valle del Río Cauca, una región que se enfrenta a desafíos como el cambio climático y la gestión eficiente de recursos. En este contexto, el uso de tecnologías de aprendizaje de máquina (AA) y datos geoespaciales se presenta como una solución innovadora para predecir de manera precisa el rendimiento de los cultivos, optimizando el uso de agua y otros insumos clave. Este estudio propone una metodología que integra datos históricos de clima, suelo y manejo agrícola con algoritmos de AA como Random Forest, XGBoost, y Catboost, con el fin de desarrollar modelos predictivos robustos que proporcionen estimaciones espaciales del rendimiento de la caña de azúcar. Los resultados muestran que los modelos basados en AA superan a los métodos tradicionales (cómo regresiones lineales y penalizadas), proporcionando predicciones más precisas que pueden ser implementadas para la planificación agrícola y la gestión de recursos en el Valle del Río Cauca, más específicamente en el municipio de La Candelaria. La investigación destaca el potencial de las técnicas avanzadas de AA para mejorar la eficiencia productiva y contribuir a una agricultura más sostenible.
 
 ## Link
-The document can be consulted at the following link: [Thesis Project](https://es.overleaf.com/1326268636wfdddrsxnmhs).
+El documento puede consultarse en el siguiente enlace [Thesis Project]().
 
-## Directory explanation
+## Explicación del directorio
 
 ```
-Thesis Project
+Proyecto de Tesis
 ├── code: Contains the Jupyter notebooks used
 │   ├── 00_PreparingData.ipynb
 │   ├── 01_EDA.ipynb
@@ -41,7 +43,7 @@ Thesis Project
 
 ```
 
-## Instructions to run this repository's code
+## Instrucciones para ejecutar el código de este repositorio
 
 1. Install [MongoDB](https://www.mongodb.com/docs/manual/installation/).
 2. Clone the repository.
