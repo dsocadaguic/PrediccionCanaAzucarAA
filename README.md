@@ -23,7 +23,7 @@ Proyecto de Tesis
 ├── code: Contiene los Python notebooks para desarrollar este estudio.
 ├── data: Contiene la información base de la tesis.
 ├── img: Contiene el escudo de la U. Nacional de Colombia.
-├── models: Contiene los modelos entrenados, junto con sus correspondiente parámetros.
+├── models: Contiene los modelos entrenados, junto con sus correspondientes parámetros.
 └── output: Contiene los datos procesados ​​y los resultados obtenidos del análisis. 
 └── requirements.txt: Contiene todos los paquetes utilizados en el proyecto.
 
