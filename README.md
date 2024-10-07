@@ -12,34 +12,34 @@
 El cultivo de caña de azúcar es fundamental para la economía agrícola de Colombia, particularmente en el Valle del Río Cauca, una región que se enfrenta a desafíos como el cambio climático y la gestión eficiente de recursos. En este contexto, el uso de tecnologías de aprendizaje de máquina (AA) y datos geoespaciales se presenta como una solución innovadora para predecir de manera precisa el rendimiento de los cultivos, optimizando el uso de agua y otros insumos clave. Este estudio propone una metodología que integra datos históricos de clima, suelo y manejo agrícola con algoritmos de AA como Random Forest, XGBoost, y Catboost, con el fin de desarrollar modelos predictivos robustos que proporcionen estimaciones espaciales del rendimiento de la caña de azúcar. Los resultados muestran que los modelos basados en AA superan a los métodos tradicionales (cómo regresiones lineales y penalizadas), proporcionando predicciones más precisas que pueden ser implementadas para la planificación agrícola y la gestión de recursos en el Valle del Río Cauca, más específicamente en el municipio de La Candelaria. La investigación destaca el potencial de las técnicas avanzadas de AA para mejorar la eficiencia productiva y contribuir a una agricultura más sostenible.
 
 ## Link
-El documento puede consultarse en el siguiente enlace [Thesis Project]().
+El documento puede consultarse en el siguiente enlace [Proyecto de Tesis]().
 
 ## Explicación del directorio
 
 ```
 Proyecto de Tesis
-├── code: Contains the Jupyter notebooks used
+├── code: Contiene los notebooks para desarrollar este estudio.
 │   ├── 00_PreparingData.ipynb
 │   ├── 01_EDA.ipynb
 │   └── 02_ExtractJurisprudence.ipynb
 │   ├── 03_PreprocessingText.ipynb
 │   └── 04_Citation_standard.ipynb
-├── data: Contains the datasets downloaded to develop the project
+├── data: Contiene la información base de estudio.
 │   ├── ...
 │   ├── ...
 │   ├── ...
 │   ├── ...
 │   ├── ...
 │   └── ...
-├── img: Contains the KU Leuven logo
-├── models: Contains the models created to do the ontological search
+├── img: Contiene el escudo de la U. Nacional de Colombia.
+├── models: Contiene los modelos entrenados.
 │   ├── ...
 │   ├── ...
 │   ├── ...
 │   ├── ...
 │   └── ...
-└── output: Contains the processed data, and the results obtained from the NLP analysis 
-└── requirements.txt: Contains all the packages used in the project
+└── output: Contiene los datos procesados ​​y los resultados obtenidos del análisis. 
+└── requirements.txt: Contiene todos los paquetes utilizados en el proyecto.
 
 ```
 
