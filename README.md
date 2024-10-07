@@ -1,4 +1,4 @@
-<img src="https://github.com/dsocadaguic/PrediccionCanaAzucarAA/blob/main/img/EscudoUN.png" width="500"/>
+<img src="https://github.com/dsocadaguic/PrediccionCanaAzucarAA/blob/main/img/EscudoUN.png" width="400"/>
 
 # Tesis: Predicción espacial del rendimiento del cultivo de caña de azúcar mediante aprendizaje de máquina
 
