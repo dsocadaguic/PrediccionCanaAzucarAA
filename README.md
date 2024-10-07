@@ -45,20 +45,19 @@ Proyecto de Tesis
 
 ## Instrucciones para ejecutar el código de este repositorio
 
-1. Install [MongoDB](https://www.mongodb.com/docs/manual/installation/).
-2. Clone the repository.
+1. Clonar el repositorio.
 ```
-git clone -b main https://github.com/amgiraldov/thesisKULeuven.git
+git clone -b main https://github.com/dsocadaguic/PrediccionCanaAzucarAA.git
 ```
-3. Create a new virtual environment with Python 3.8.15 version.
+2. Cree un nuevo entorno virtual con la versión Python 3.9.5.
 ```
-pyenv virtualenv 3.8.15 <name>
+pyenv virtualenv 3.9.5 <name>
 ```
-4. Activate the environment.
+3. Activar el entorno.
 ```
 pyenv activate <name>
 ```
-5. Install the `requirements.txt` file into the virtual environment.
+4. Instale el archivo `requirements.txt` en el entorno virtual.
 ```
 pip install -r requirements.txt
 ```
