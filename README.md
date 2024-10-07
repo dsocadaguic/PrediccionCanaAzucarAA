@@ -1,6 +1,6 @@
 <img src="https://github.com/dsocadaguic/PrediccionCanaAzucarAA/blob/main/img/EscudoUN.png" width="400"/>
 
-# Tesis: Predicción espacial del rendimiento del cultivo de caña de azúcar mediante aprendizaje de máquina
+# Tesis: Predicción espacial del rendimiento del cultivo de caña de azúcar (Saccharum officinarum) mediante aprendizaje de máquina
 
 ***Autor:*** Diego Arley Socadagui Casas @[dsocadaguic](https://github.com/dsocadaguic).
 
