@@ -8,7 +8,7 @@
 
 ***Director:*** Prof. Ph.D(s). Andrés Felipe Rodriguez Vasquez ([perfil](https://scholar.google.es/citations?user=7D4jWaUAAAAJ&hl=es))
 
-***Codirectora:*** Prof. Ph.D. Yolanda Rubiano Sanabria ([perfil](https://cienciasagrarias.bogota.unal.edu.co/facultad/profesores/yolanda-rubiano-sanabria))
+***Codirectora:*** Prof. Ph.D. Yolanda Rubiano Sanabria ([perfil](https://scholar.google.es/citations?user=NeykKR0AAAAJ&hl=es))
 
 ## Descripción
 El cultivo de caña de azúcar es fundamental para la economía agrícola de Colombia, particularmente en el Valle del Río Cauca, una región que se enfrenta a desafíos como el cambio climático y la gestión eficiente de recursos. En este contexto, el uso de tecnologías de aprendizaje de máquina (AA) y datos geoespaciales se presenta como una solución innovadora para predecir de manera precisa el rendimiento de los cultivos, optimizando el uso de agua y otros insumos clave. Este estudio propone una metodología que integra datos históricos de clima, suelo y manejo agrícola con algoritmos de AA como Random Forest, XGBoost, y Catboost, con el fin de desarrollar modelos predictivos robustos que proporcionen estimaciones espaciales del rendimiento de la caña de azúcar. Los resultados muestran que los modelos basados en AA superan a los métodos tradicionales (cómo regresiones lineales y penalizadas), proporcionando predicciones más precisas que pueden ser implementadas para la planificación agrícola y la gestión de recursos en el Valle del Río Cauca, más específicamente en el municipio de La Candelaria. La investigación destaca el potencial de las técnicas avanzadas de AA para mejorar la eficiencia productiva y contribuir a una agricultura más sostenible.
